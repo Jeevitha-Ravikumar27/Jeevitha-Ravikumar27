@@ -9,7 +9,11 @@
 
 - 🌱 I’m currently learning **React JS**
 
+-  💬 Ask me about **Frontend Technologies**
+
 - 📫 How to reach me **ravikumarjeevitha254@gmail.com**
+
+- ⚡ Fun fact **I am a serene type**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

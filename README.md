@@ -11,7 +11,7 @@
 
 -  💬 Ask me about **Frontend Technologies**
 
-- 📫 How to reach me **ravikumarjeevitha254@gmail.com**
+- 📫 How to reach me **jeevitharavikumarcsecs@gmail.com**
 
 - ⚡ Fun fact **I am a serene type**
 

@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeevitha-ravikumar27&label=Profile%20views&color=0e75b6&style=flat" alt="jeevitha-ravikumar27" /> </p>
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **Node JS**
 - 👨‍💻 All of my projects are available at [https://rawcdn.githack.com/Jeevitha-Ravikumar27/portfolio/138c641b3e3c36456a8350f4739a7c4f6de796ba/portfolio.html](https://rawcdn.githack.com/Jeevitha-Ravikumar27/portfolio/138c641b3e3c36456a8350f4739a7c4f6de796ba/portfolio.html)
 
 
